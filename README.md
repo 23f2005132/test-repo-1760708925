@@ -1,12 +1,8 @@
-# Simple Webpage
+# My Awesome App V2
 
-A very basic webpage with a title and a header.
+This is a simple web application.
 
-## Features
+**Key Changes:**
 
-*   Displays a title 'My App' in the browser tab.
-*   Displays a header 'Welcome' on the page.
-
-## Usage
-
-Open `index.html` in your browser.
+*   Updated the page title to 'My Awesome App V2'.
+*   Added a paragraph below the 'Welcome' header that says 'This is my updated app!'.
